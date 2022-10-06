@@ -6,3 +6,9 @@ Area based diameter measurement algorithm for ındustrial machine vision applica
 For citation
 
 Poyraz, Ahmet Gökhan, et al. "Endüstriyel makine görmesi uygulamalarında kullanılabilecek alan tabanlı çap ölçüm algoritması." Niğde Ömer Halisdemir Üniversitesi Mühendislik Bilimleri Dergisi: 1-1.
+
+In order to clear image you can use 'eliminate_small_objects' function
+
+`im = imread('deneme.png')'
+
+'[im_desired] = eliminate_small_objects(im,250)`
