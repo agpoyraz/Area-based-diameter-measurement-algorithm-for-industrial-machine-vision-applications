@@ -1,4 +1,4 @@
-# Area-based-diameter-measurement-algorithm-for-industrial-machine-vision-applications
+# Area based diameter measurement algorithm for industrial machine vision applications
 Area based diameter measurement algorithm for ındustrial machine vision applications
 Detailed explanation for this code is given this paper doi: 10.28948/ngmuh.1069442 
 Area based diameter measurement algorithm for ındustrial machine vision applications
